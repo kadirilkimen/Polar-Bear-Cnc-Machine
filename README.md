@@ -5,6 +5,11 @@ https://www.kadirilkimen.com/polarbear
 Hi, This is PolarBear.
 ![PolarBear CNC Machine](images/polar-bear.jpg "PolarBear")
 
+
+> I am currently improving the prototype so that it can be easily build by others.
+> I will upload all the necessary materials once I have finished the improvements and prepared the guidelines.
+
+
 # It is a multi-purpose CNC machine
 
 * What is it?
