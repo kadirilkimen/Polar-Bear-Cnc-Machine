@@ -64,7 +64,7 @@ I need to improve the design to eliminate two calibration issues.
 
 ### Do we need a custom firmware?
 
-The current prototype runs on an off-the-shelf 3d printer controller with a Marlin based firmware. I've also done tons of experiments with an Arduino/Grbl cnc shield.
+The current prototype runs on an off-the-shelf 3d printer controller with a Marlin based firmware. I've also done tons of experiments with an Arduino/Grbl CNC shield.
 It just works great. However, since these off-the-shelf components and firmware don't know the PolarBear kinematics, I had to develop a postprocessor for g-codes:
 
 https://github.com/kadirilkimen/polarToolsJS
@@ -110,14 +110,14 @@ It's not an issue directly related to the PolarBear project, but a good cam soft
 
 ### Why?
 
-All 3d printers, cnc routers, cnc milling machines, plotters (... and tons of other stuff) are all cnc machines.
+All 3d printers, CNC routers, CNC milling machines, plotters (... and tons of other stuff) are all CNC machines.
 
 The difference between these machines is their functionality and construction.
 Although all these machines can be modified to do the work of others, they cannot be efficient at functions they were not designed to do.
 Because all different functions require different mechanical capacities and speeds.
 
 Thanks to the PolarBear's unique design and kinematics, the limits between the needs of the different functions are more blurred.
-While it can be as fast as a 3d printer, it can be rigid for use as a cnc milling machine as well.
+While it can be as fast as a 3d printer, it can be rigid for use as a CNC milling machine as well.
 
 The only clear limit is the PolarBear's work volume.
 
