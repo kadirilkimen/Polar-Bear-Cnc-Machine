@@ -1,5 +1,11 @@
 # Polar-Bear-Cnc-Machine
 
+### Where is the files?
+> I'm making some improvements to the design. I will upload the 3d models of the current prototype on 09-August-2021 in a "WIP" state.
+> The BOM and building instructions require approximately 4 weeks to complete. I don't see any reason to upload the incomplete BOM and instructions.
+> As I make progress, I will update my repositories.
+> Also please see my other repositories. Some parts of PolarBear have their own repositories as they can be used on different cnc machines.
+
 https://www.kadirilkimen.com/polarbear
 
 Hi, This is PolarBear.
