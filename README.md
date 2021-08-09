@@ -1,4 +1,5 @@
 # the PolarBear
+http://www.kadirilkimen.com/thepolarbear
 >
 > ### IMPORTANT
 > #### All existing STL files and the design of the machine are still in development.
