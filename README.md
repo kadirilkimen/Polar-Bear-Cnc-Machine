@@ -9,6 +9,10 @@ http://www.kadirilkimen.com/thepolarbear
 
 ![PolarBear CNC Machine](images/polar-bear.jpg "PolarBear")
 
+the PolarBear needs support. I would appreciate any contribution to help with funding.
+I will add any supporter's name/logo into the CREDITS documentation both in this repository and the website :
+http://www.kadirilkimen.com/thepolarbear
+
 ## It is a multi-purpose CNC machine
 
 * What is it?
