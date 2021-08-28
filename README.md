@@ -1,13 +1,24 @@
 # the PolarBear
 http://www.kadirilkimen.com/thepolarbear
 
-# BOM OF THE PROTOTYPE IS LOADED.
-# It is not the BOM of Version1.
-### I'm still working on version1.
-### I received a lot of requests for the BOM and decided to upload the BOM of the prototype.
-#### Please use this as a reference and build the machine for familiarization only.
-#### You may experience some problems during installation and/or use. But none of them are unsolvable.
+# Bom of the prototype is loaded.
+
+## Please read the description below. it is important.
+## It is not the BOM of Version1.
+I'm still working on version1.
+
+I received a lot of requests for the BOM and decided to upload the BOM of the prototype.
+
+Please use this as a reference and build the machine for familiarization only or practice before building v1.
+
+You may experience some problems during installation and/or use. But none of them are unsolvable.
 #### Have fun!
+
+I will update the polarToolsJs to work with both rotary axis and cross slide axis in a week. If you build the machine, you will need it to convert a regular g-code to the PolarBear compatible format.
+
+I will also upload a simple assembling instructions in a week.
+
+polarToolsJs repository : https://github.com/kadirilkimen/polarToolsJS
 
 >
 > ### IMPORTANT
