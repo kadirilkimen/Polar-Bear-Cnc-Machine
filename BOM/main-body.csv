@@ -1,0 +1,15 @@
+Item,Quantity,Size/model,Source,Description
+Read the description >,,,,"Please keep in mind, Main body design will be different in version 1. It seems I designed the x motor mount poorly. It makes the assembling vertical 2040 extrusion very difficult. Two t-slot nut become unaccesible while assembling. I had to tape the t-nuts on the place before assembling it."
+Main-body,1,,STLs/main-body/main-body.stl,The Squareness of this part affects the overall squareness of the machine. So it is important that your printer must be squared and calibrated carefully. It takes time but  its worth to print slow.
+Rotary-motor-cover,1,,STLs/main-body/rotary-motor-cover.stl,Least important part. Just a cover
+X-motor-mount,1,,STLs/main-body/x-motor-mount.stl,Design of this part makes the assembly of the vertical 2040 extrusion very difficult. It’s design will be changed completely on v1.
+Z-motor-mount,,,STLs/main-body/z-motor-mount.stl,
+M5 socket cap bolt,2,50mm,,For the rotary axis belt tensioner idlers.
+M5 nylon nut,2,,,For the rotary axis belt tensioner idlers.
+625 bearing,4,zz or 2rs,,I used bearings as belt idlers. You can use bearings or off the shelf idlers.
+M5 round socket cap bolt,9,20mm,,to fix 2040 extrusion to the body and x motor mount
+M5 round socket cap bolt,2,30mm,,to fix x motor mount to 2040 extrusion thru the main body
+M5 T-nut ( vslot nut? ),9,,,to fix 2040 extrusion to the body and x motor mount
+M5 nut,2,,,to fix x motor mount to main body
+M5 round socket cap bolt,2,20mm,,to fix z motor mount to main body
+M5 countersunk socket cap bolt,2,10mm,,to fix z motor mount to main body

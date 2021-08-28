@@ -1,11 +1,20 @@
 # the PolarBear
 http://www.kadirilkimen.com/thepolarbear
+
+# BOM OF THE PROTOTYPE IS LOADED.
+# It is not the BOM of Version1.
+### I'm still working on version1.
+### I received a lot of requests for the BOM and decided to upload the BOM of the prototype.
+#### Please use this as a reference and build the machine for familiarization only.
+#### You may experience some problems during installation and/or use. But none of them are unsolvable.
+#### Have fun!
+
 >
 > ### IMPORTANT
 > #### All existing STL files and the design of the machine are still in development.
 > Some parts will be updated for better printing and easier assembly.
 >
-> BOM and assembly instructions are on the way. I need some more time to prepare them.
+>
 
 ![PolarBear CNC Machine](images/polar-bear.jpg "PolarBear")
 

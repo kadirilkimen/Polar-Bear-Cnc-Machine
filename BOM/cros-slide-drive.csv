@@ -1,0 +1,9 @@
+Item,Quantity,Size/model,Source,Description
+Read the description >,,,,
+Nema17 stepper,2,4401,,X and Z motors
+GT2 16T pulley,2,16T,,Teeth count is important for an accurate positioning. All the documentation will assume that you use 16T pulley for the cross slide steppers
+M3 socket cap screw,8,10mm,,to fix X and Z steppers to the motor mounts
+GT2 open end belt with 6mm width,1,1500,,cross slide drive belt
+V4 limit switch,1,,,Z axis limit switch
+M2 self tapping screw,2,12 – 16mm,, for the limit switch
+2 core wire for the limit switch,1,~1000mm,,

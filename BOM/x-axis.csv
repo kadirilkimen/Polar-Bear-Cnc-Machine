@@ -1,0 +1,29 @@
+Item,Quantity,Size/model,Source,Description
+Read the description >,,,,"Almost all 3D print parts on the x axis will change on the version 1. Current parts are working fine. But the belt’s position will change and it requires to redesign all related parts. Also some parts require too much post work, which is not nice and they needed to be re-designed."
+Belt-end-clamp,1,,STLs/x-axis/belt-end-clamp.stl,This part designed on the way. It’s not intended to be a final design part.
+tool-adapter-cap,1,,STLs/x-axis/tool-adapter/tool-adapter-cap.stl,This part designed on the way. It’s not intended to be a final design part.
+tool-adapter-body,1,,STLs/x-axis/tool-adapter/tool-adapter-body.stl,This part must be as accurate as possible. Print it slow with 0.1mm layer height
+tool-plug-template,1,,STLs/x-axis/tool-adapter/tool-plug-template.stl,Don’t print this model right away. Instead use it to design your own tool holder
+Tool-adapter-t-nut-brick,1,,STLs/x-axis/tool-adapter/tool-adapter-t-nut-brick.stl,This is an M3 nut wrap that prevents the nut from rotating freely.
+tool-locking-shoe,1,,STLs/x-axis/tool-adapter/tool-locking-shoe.stl,This part applies force to the tool plug to keep it pressed to the Socket. It does it’s job perfectly. But it’s design is not good and it stucks in position. It changed on v1.
+M3 socket cap bolt,1,20mm,,to secure the tool holder
+M3 nut,1,,,to secure the tool holder
+M5 socket cap bolt,2,10mm,,to fix tool adapter cap to the x-axis extrusion
+M5 t-slot nut,2,,,to fix tool adapter cap to the x-axis extrusion
+M5 countersunk socket bolt,2,10mm,,to fix tool adapter body to the x-axis-extrusion
+M5 t-slot nut,2,,,to fix tool adapter body to the x-axis-extrusion
+M5 round socket cap bolt,1,20mm,,to fix belt end clamp to the x-axis-extrusion
+M5 t-slot nut,1,,,to fix belt end clamp to the x-axis-extrusion
+V4 limit switch,1,,,x axis limit switch
+M2 self tapping screw,2,,,for the limit switch
+2 core wire for the limit switch,1,~1500mm,,
+belt-tensioner-guide-cap,1,,STLs/x-axis/belt-tensioner-guide-cap.stl,
+belt-tensioner-knob,1,,STLs/x-axis/belt-tensioner-knob.stl,It’s has a CCW direction thread.
+belt-tensioner-screw,1,,STLs/x-axis/belt-tensioner-screw.stl,It’s has a CCW direction thread.
+cross-drive-idler-pulley,1,,STLs/x-axis/cross-drive-idler-pulley.stl,
+M5 round socket cap bolt,1,20mm,,to fix belt-tensioner-guide-cap
+M5 socket cap bolt,1,30mm,,to fix belt tensioner pulley
+M5 t-slot nut,1,,,to fix belt tensioner pulley
+M5 washer,2,,,to fix belt tensioner pulley
+625 bearing,2,zz or 2rs,,Cross-drive-idler-pulley bearings
+2020 v-slot extrusion,1,300mm,,X-axis rail

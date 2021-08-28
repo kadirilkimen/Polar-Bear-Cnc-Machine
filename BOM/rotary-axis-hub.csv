@@ -1,0 +1,7 @@
+Item,Quantity,Size/model,Source,Description
+Read the description >,,,,"This is the first prototype of the rotary axis hub. I've already made heavy changes and version 1 will have a different rotary axis design than this. Currently, a surface for bearings needs to be printed with support and is not clearly printed. Finally affects the precision and straightness of the rotary axis"
+Rotary-axis-body,1,,STLs/rotary-axis-hub/rotary-axis-body.stl,"This is the most important part of the printer. It should be printed as accurately as possible. Therefore, do not print fast and be sure to calibrate the flow rate before printing this part."
+Rotary-axis-preloader,1,,STLs/rotary-axis-hub/rotary-axis-preloader.stl,This part is used for preloading the rotary axis body bearings. Preloading is very important process. This part also important. Do not print fast and be sure to calibrate the flow rate before printing this part.
+M5 socket cap bolt,4,60mm,,It can be any type of screws. Prefer 10.9 grade bolts if you can find.
+M5 nylon nut,4,,,
+16010 bearing,2,ZZ or 2RS,,"Bearing selection can be confusing.I used 3EUR/piece bearings for the prototype. I wouldn’t recommend buying very high quality bearings. Cost of the bearing is more likely affects it’s load bearing and speed capabilities more than its precision. Ah, also don’t buy deadly cheap carbon steel bearings. A real bearing must be made from bearing steels."

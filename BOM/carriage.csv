@@ -1,0 +1,15 @@
+Item,Quantity,Size/model,Source,Description
+Read the description >,,,,"Carriage contains 4 set of idlers inside. I used a pair of 625 bearings for each idler set. Since they don’t have flange to guide belt, belt plays around and cause alignment issues. Carriage block design will be changed in v1"
+carriage,1,,STLs/carriage/carriage.stl,This part must be as rigid as possible. Use high top/bottom and wall thickness. Infill is important but thicker outer shel is more important for rigidity. I used 1.6mm outer shell and %20 cubic infill. I print with 0.4mm nozzle and infill is better when I set 0.6mm line width for infills.
+decoration parts,1 set,,STLs/carriage/decorations/ all models,bear eyes designed to slide in x axis extrusion. Others are designed to snap-in carriage block. Print as light as possible.
+24mm v-slot wheels,8,,,
+M5 round socket cap bolts or M5 low profile socket bolts,8,40mm,,For the v-slot wheels. Use at lease 10.9 grade bolts. I use round socket cap bolts for the wheels because I buy bolts in bulk from my local sources and they don’t have low profile bolts.
+M5 nylon nut,8,,,For the v-slot wheels
+6mm v-slot spacer,4,,,For the v-slot wheels
+6mm v-slot eccentric spacer,4,,,For the v-slot wheels
+M5 round socket cap bolts or M5 low profile socket bolts,4,30mm,,for the idlers in the carriage
+M5 nylon nut,4,,,for the idlers in the carriage
+M5 washer,4,,,for the idlers in the carriage
+625 bearing,8,zz or 2rs,,for the idlers in the carriage
+M3 socket head cap bolt,2,20mm,,for the limit switch adjusters. You need M3 tap to install this bolts to the place.
+M3 nut,2,,,for the limit switch adjusters

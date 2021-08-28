@@ -1,0 +1,6 @@
+Item,Quantity,Size/model,Source,Description
+Read the description >,,,,"When I was prototyping PolarBear, I needed a spool roller and designed it right away. Requires improvements. It needs weight or friction to stay on the ground. When the spool becomes lighter it starts to move or the spool is pulled out by the extruder. But still usable"
+Spool-bar,4,,STLs/accesories/spool-bar.stl,3d printed part
+6001 bearing,4,6001,,I designed the spool roller for the 6001 bearing because it was a prototype and I already had spare 6001 bearings.
+M5 screw,4,20/30mm,,"I usually cut threads on printed parts using tap tools when the part is not structural. So, the holes on the spool-bar.stl are smaller than M5 size. Use M5 tap to cut thread or use a 5mm drill to enlarge the holes. 20Mm for threaded 3d print part and 30mm for nuts"
+M5 nut(optional),4,,,If you don’t want to cut threads on the 3d printed parts simply use longer screw and use nuts to fasten parts

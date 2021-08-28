@@ -1,0 +1,7 @@
+Item,Quantity,Size/model,Source,Description
+Read the description >,,,,
+Nema17 stepper,1,4401,,
+GT2 16T pulley,1,16T,,Teeth count is important for an accurate positioning. All the documentation will assume that you use 16T pulley for the rotary axis stepper
+M3 socket cap screw,4,10mm,,to fix rotary axis stepper to the main body
+M3 washers,4,,,to fix rotary axis stepper to the main body
+GT2 400mm loop belt with 6mm width,1,400mm,,
