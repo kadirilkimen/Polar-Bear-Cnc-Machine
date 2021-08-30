@@ -3,7 +3,7 @@ http://www.kadirilkimen.com/thepolarbear
 
 # Bom of the prototype is loaded.
 
-## Please read the description below. it is important.
+## Please read the description below. It is important.
 ## It is not the BOM of Version1.
 
 ## BOM is only for the basic machine prototype.
