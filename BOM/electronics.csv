@@ -1,0 +1,4 @@
+Item,Quantity,Size/model,Source,Description
+Read the description >,,,,"Electronics are not designed built-in for the prototype. So there is no any clear electronics BOM. Anyway, feel free to work with any controller. I made tests with arduino grbl and marlin based controllers. They work fine. To play with the prototype machine until I publish V1 , simplest way is using arduino grbl. It s very affordable and easy to configure."
+3d printer/cnc controller,1,,,Each different controller requires different wiring and perhiperals. So I can’t prepare a wiring or perhiperal BOM for the prototype.
+Power supply,1,,,Feel free to use any good quality power supply that compatible with your controller. Nema 17 motors usually works best with 24v. You probably will need at least 24V 150W power supply. Some sellers tend to promote peak power that the power supply can deliver. Look for rated power value
