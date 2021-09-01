@@ -4,6 +4,7 @@ Main-body,1,,STLs/main-body/main-body.stl,The Squareness of this part affects th
 Rotary-motor-cover,1,,STLs/main-body/rotary-motor-cover.stl,Least important part. Just a cover
 X-motor-mount,1,,STLs/main-body/x-motor-mount.stl,Design of this part makes the assembly of the vertical 2040 extrusion very difficult. It’s design will be changed completely on v1.
 Z-motor-mount,,,STLs/main-body/z-motor-mount.stl,
+2040 v-slot extrusion,1,500mm,,Longer than 500mm Z axis is not much practical for a 3d printed body machine.
 M5 socket cap bolt,2,50mm,,For the rotary axis belt tensioner idlers.
 M5 nylon nut,2,,,For the rotary axis belt tensioner idlers.
 625 bearing,4,zz or 2rs,,I used bearings as belt idlers. You can use bearings or off the shelf idlers.
