@@ -7,3 +7,4 @@ GT2 open end belt with 6mm width,1,1500,,cross slide drive belt
 V4 limit switch,1,,,Z axis limit switch
 M2 self tapping screw,2,12 – 16mm,, for the limit switch
 2 core wire for the limit switch,1,~1000mm,,
+Nema 17 stepper motor cable,2,~1000mm,,
