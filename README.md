@@ -1,7 +1,7 @@
 # the PolarBear
 http://www.kadirilkimen.com/thepolarbear
 
-# Bom of the prototype is loaded.
+# Bom of the prototype is uploaded.
 
 ## Please read the description below. It is important.
 ## It is not the BOM of Version1.
